@@ -7,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 
 # 不用重复登录
-my-bot-name.memory-card
+my-bot-name.memory-card.json
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
