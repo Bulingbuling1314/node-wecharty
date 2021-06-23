@@ -1,0 +1,10 @@
+### 接口测试
+GET http://api.qingyunke.com/api.php?key=free&appid=0&msg=讲个笑话
+
+# {
+  # "result": 0,
+  # "content": "哈个屁"
+# }
+
+###
+GET http://poetry.apiopen.top/sentences
