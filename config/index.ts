@@ -1,4 +1,4 @@
 export default {
   selfName: '泛盈科技-刘冰',
-  groupArray: ['又是崇拜大佬们的一天', 'IIIII']
+  groupArray: ['又是崇拜大佬们的一天', 'IIIII', '老芭的快乐生活']
 }

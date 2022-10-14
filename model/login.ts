@@ -19,5 +19,7 @@ export default async (bot: any, user: any) => {
   ##MMMMMMMMMMMMMMMMMMMMMM##      微信机器人名为: [${user.payload.name}] 已经扫码登录成功了。\n\n
   `)
   const self = await bot.Contact.find({ name: 'A   . 阿冰' })
+//   const selfRoom1 = await bot.Room.find({ topic: '又是崇拜大佬们的一天' })
   await self.say('俺光头强又回来了!')
+//   await selfRoom1.say('俺光头强又回来了!')
 }
