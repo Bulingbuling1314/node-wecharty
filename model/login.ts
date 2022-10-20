@@ -20,6 +20,8 @@ export default async (bot: any, user: any) => {
   `)
   const self = await bot.Contact.find({ name: 'A   . 阿冰' })
 //   const selfRoom1 = await bot.Room.find({ topic: '又是崇拜大佬们的一天' })
+//   const selfRoom2 = await bot.Room.find({ topic: 'IIIII' })
   await self.say('俺光头强又回来了!')
 //   await selfRoom1.say('俺光头强又回来了!')
+//   await selfRoom2.say('俺光头强又回来了!')
 }
